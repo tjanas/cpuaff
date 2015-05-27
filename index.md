@@ -5,6 +5,16 @@ layout: slate
 
 ### News
 
+##### Version 0.0.6 Released
+
+Released [cpuaff-0.0.6](releases/cpuaff-0.0.6.tar.gz).
+
+Changes:
+
+* Fixed a bug in get_affinity for linux that was causing it to not actually work at all.
+
+2015-05-27 13:32:00
+
 ##### Version 0.0.5 Released
 
 Released [cpuaff-0.0.5](releases/cpuaff-0.0.5.tar.gz).
@@ -61,7 +71,7 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 ### Releases
 
-The latest release is [cpuaff-0.0.5](releases/cpuaff-0.0.5.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
+The latest release is [cpuaff-0.0.6](releases/cpuaff-0.0.6.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
 
 For installation instructions, click [here](installation.html)
 
