@@ -5,6 +5,16 @@ layout: slate
 
 ### News
 
+##### Version 0.0.7 Released
+
+Released [cpuaff-0.0.7](releases/cpuaff-0.0.7.tar.gz).
+
+Changes:
+
+* Overloaded stream operators for cpu_spec
+
+2015-06-03 16:16:00
+
 ##### Version 0.0.6 Released
 
 Released [cpuaff-0.0.6](releases/cpuaff-0.0.6.tar.gz).
@@ -71,7 +81,7 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 ### Releases
 
-The latest release is [cpuaff-0.0.6](releases/cpuaff-0.0.6.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
+The latest release is [cpuaff-0.0.7](releases/cpuaff-0.0.7.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
 
 For installation instructions, click [here](installation.html)
 

@@ -5,6 +5,7 @@ layout: slate
 
 ### Releases
 
+* [Version 0.0.7](releases/cpuaff-0.0.7.tar.gz)
 * [Version 0.0.6](releases/cpuaff-0.0.6.tar.gz)
 * [Version 0.0.5](releases/cpuaff-0.0.5.tar.gz)
 * [Version 0.0.4](releases/cpuaff-0.0.4.tar.gz)
