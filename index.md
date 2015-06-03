@@ -35,42 +35,6 @@ Changes:
 
 2015-05-18 07:32:00
 
-##### Version 0.0.4 Released
-
-Released [cpuaff-0.0.4](releases/cpuaff-0.0.4.tar.gz).
-
-Changes:
-
-* Promoted native cpu typedefs to cpuaff namespace for ease of use
-
-##### Version 0.0.3 Released
-
-Released [cpuaff-0.0.3](releases/cpuaff-0.0.3.tar.gz).
-
-Changes:
-
-* Fixed a linking error from a function that was not declared inline.
-
-##### Version 0.0.2 Released
-
-Released [cpuaff-0.0.2](releases/cpuaff-0.0.2.tar.gz).
-
-Changes:
-
-* Separated pci\_device\_manager from affinity\_manager
-* Changed affinity\_manager, native\_cpu\_mapper, round\_robin\_allocator, pci\_device\_manager, and pci\_name\_resolver to initialize on construction
-* Linux sysfs\_reader now supports more sysfs layouts
-
-2015-02-02 20:58:00
-
-##### Continuous Integration and Some Minor Enhancements
-
-Thanks to [Dirk Eddelbuettel](https://github.com/eddelbuettel) we now have continuous integration using [Travis CI](https://travis-ci.org).  As a result we now compile with clang as well as g++.  There were a few minor code enhancements that went in as part of this process but nothing worthy of a new release.
-
-For the next release I plan to disentangle PCI device mapping from the affinity_manager class to make things more modular both for testing and usage.
-
-2015-02-01 18:16:00
-
 ### Short Description
 
 cpuaff is a C++ library that abstracts CPU affinity settings for multiple platforms.  It is a header-only library on some platforms.  Other platforms are supported using [hwloc](http://www.open-mpi.org/projects/hwloc/).  The project aims to fully support all platforms as header-only eventually.
