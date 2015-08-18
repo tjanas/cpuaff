@@ -31,7 +31,7 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 The latest source release is [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).
 
-The latest Debian package is [libcpuaff-dev_1.0.0-1_all](deb/libcpuaff-dev_1.0.0-1_all.deb).
+The latest Debian package is [libcpuaff-dev\_1.0.0-1\_all](deb/libcpuaff-dev_1.0.0-1_all.deb).
 
 To get other releases, go to the [downloads](downloads.html) page.
 
