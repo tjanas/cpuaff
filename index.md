@@ -5,6 +5,12 @@ layout: slate
 
 ### News
 
+##### Debian Package Released
+
+The first Debian package has been released.  It is available [here](deb/libcpuaff-dev_1.0.0-1_all.deb) or on the [downloads](downloads.html) page.
+
+2015-08-18 12:39:00
+
 ##### Version 1.0.0 Released
 
 Released [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).
@@ -23,7 +29,11 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 ### Releases
 
-The latest release is [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
+The latest source release is [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).
+
+The latest Debian package is [libcpuaff-dev_1.0.0-1_all](deb/libcpuaff-dev_1.0.0-1_all.deb).
+
+To get other releases, go to the [downloads](downloads.html) page.
 
 For installation instructions, click [here](installation.html)
 

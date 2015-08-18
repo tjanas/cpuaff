@@ -2,8 +2,10 @@
 title: Downloads
 layout: slate
 ---
+### Debian Packages
+* [libcpuaff-dev_1.0.0-1_all](deb/libcpuaff-dev_1.0.0-1_all.deb)
 
-### Releases
+### Source Code Releases
 
 * [Version 1.0.0](releases/cpuaff-1.0.0.tar.gz)
 * [Version 0.0.7](releases/cpuaff-0.0.7.tar.gz)
