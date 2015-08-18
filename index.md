@@ -5,35 +5,13 @@ layout: slate
 
 ### News
 
-##### Version 0.0.7 Released
+##### Version 1.0.0 Released
 
-Released [cpuaff-0.0.7](releases/cpuaff-0.0.7.tar.gz).
+Released [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).
 
-Changes:
+* After running in production for several months, I have declared version 1.0.0.
 
-* Overloaded stream operators for cpu_spec
-
-2015-06-03 16:16:00
-
-##### Version 0.0.6 Released
-
-Released [cpuaff-0.0.6](releases/cpuaff-0.0.6.tar.gz).
-
-Changes:
-
-* Fixed a bug in get_affinity for linux that was causing it to not actually work at all.
-
-2015-05-27 13:32:00
-
-##### Version 0.0.5 Released
-
-Released [cpuaff-0.0.5](releases/cpuaff-0.0.5.tar.gz).
-
-Changes:
-
-* Fixed a bug in reading sysfs on 3.x kernels.
-
-2015-05-18 07:32:00
+2015-08-18 12:12:00
 
 ### Short Description
 
@@ -45,7 +23,7 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 ### Releases
 
-The latest release is [cpuaff-0.0.7](releases/cpuaff-0.0.7.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
+The latest release is [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).  To get other releases, go to the [downloads](downloads.html) page.
 
 For installation instructions, click [here](installation.html)
 
