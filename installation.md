@@ -5,6 +5,7 @@ layout: slate
 ### Installation from Debian Package
 
 To install a Debian package:
+
     sudo dpkg -i deb/libcpuaff-dev_x.x.x-x_all.deb
 
 ### Installation from Source
