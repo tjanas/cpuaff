@@ -4,6 +4,21 @@ layout: slate
 ---
 
 ### News
+##### Packages for Vivid, Trusty, and Precise Created
+
+I have created a ppa that contains packages for Ubuntu versions Vivid, Trusty, and precise.
+
+It is available [here](https://launchpad.net/~dcdillon/+archive/ubuntu/ppa)
+
+2015-09-13 17:20:00
+
+##### Version 1.0.2 Released
+
+Released [cpuaff-1.0.2](releases/cpuaff-1.0.2.tar.gz).
+
+* Fixed a bug in catch that would sometimes cause builds to fail.
+
+2015-09-13 17:18:00
 
 ##### Debian Package Released
 
@@ -29,9 +44,9 @@ To see a list of supported platforms click [here](supported_platforms.html).
 
 ### Releases
 
-The latest source release is [cpuaff-1.0.0](releases/cpuaff-1.0.0.tar.gz).
+The latest source release is [cpuaff-1.0.2](releases/cpuaff-1.0.2.tar.gz).
 
-The latest Debian package is [libcpuaff-dev\_1.0.0-1\_all](deb/libcpuaff-dev_1.0.0-1_all.deb).
+The latest Ubuntu pacakges are available from [ppa:dcdillon/ppa](https://launchpad.net/~dcdillon/+archive/ubuntu/ppa).
 
 To get other releases, go to the [downloads](downloads.html) page.
 
