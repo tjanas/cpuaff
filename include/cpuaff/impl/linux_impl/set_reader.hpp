@@ -62,8 +62,8 @@ inline bool read_int_set(std::set< int32_t > &set, const std::string &str)
         tok = strtok(NULL, ",");
     }
 
-    std::vector< std::string >::iterator i = elem.begin();
-    std::vector< std::string >::iterator iend = elem.end();
+    std::vector< std::string >::const_iterator i = elem.cbegin();
+    std::vector< std::string >::const_iterator iend = elem.cend();
 
     for (; i != iend; ++i)
     {
